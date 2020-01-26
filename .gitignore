@@ -1,6 +1,7 @@
 *.sqlite3
 *.sqlite
 *.ldb
+*ldb
 *.csv
 *.log
 *.toml
