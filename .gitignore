@@ -1,0 +1,7 @@
+*.sqlite3
+*.sqlite
+*.ldb
+*.csv
+*.log
+*.toml
+*.json
