@@ -7,4 +7,4 @@
 *.toml
 *.json
 
-*/db/*
+*/db
